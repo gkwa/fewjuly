@@ -1,0 +1,7 @@
+* fewjuly
+
+This is a description of my fewjuly.
+
+** Usage
+
+To use my project, run this command: ./fewjuly --verbose
