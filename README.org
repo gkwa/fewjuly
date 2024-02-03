@@ -2,8 +2,10 @@
 
 ** 
 
-Find what people are saying about Cuelang in Pkl thread.
+Ask gpt what people are saying about the Cuelang language in Pkl
+thread.
 
+https://news.ycombinator.com/item?id=39232976
 
 ** Usage
 
