@@ -1,7 +1,14 @@
 * fewjuly
 
-This is a description of my fewjuly.
+**
+
+Find what people are saying about Cuelang in Pkl thread.
+
 
 ** Usage
 
-To use my project, run this command: ./fewjuly --verbose
+#+begin_example
+rm -f data.txt && make && ./fewjuly report1
+ls data.txt
+cat result_*.txt
+#+end_example
