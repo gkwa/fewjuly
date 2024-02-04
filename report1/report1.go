@@ -23,7 +23,9 @@ func RunReport1() error {
 	url := "https://news.ycombinator.com/item?id=39232976"
 	cacheFilePath := "data.txt"
 
-	err := fetchDataAndCache(url, cacheFilePath)
+	var err error
+
+	err = fetchDataAndCache(url, cacheFilePath)
 	if err != nil {
 		return fmt.Errorf("error fetching data: %v", err)
 	}
