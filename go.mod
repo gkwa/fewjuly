@@ -8,7 +8,7 @@ require (
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	github.com/taylormonacelli/goldbug v0.0.6
-	golang.org/x/net v0.61.0
+	golang.org/x/net v0.62.0
 )
 
 require (
